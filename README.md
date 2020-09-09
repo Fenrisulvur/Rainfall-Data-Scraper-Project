@@ -2,7 +2,7 @@
 Project for Software Engineering
 
 Team Leader - Corey
-
+Team Members - Truitt, Heidi
 Project description:  Teams will build an application that gathers requested rainfall data from the Web and produces output. Make mistakes and learn from them!
 
 Requirements:
