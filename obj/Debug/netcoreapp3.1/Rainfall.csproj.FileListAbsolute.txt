@@ -1,0 +1,11 @@
+D:\Rainfall\bin\Debug\netcoreapp3.1\Rainfall.exe
+D:\Rainfall\bin\Debug\netcoreapp3.1\Rainfall.deps.json
+D:\Rainfall\bin\Debug\netcoreapp3.1\Rainfall.runtimeconfig.json
+D:\Rainfall\bin\Debug\netcoreapp3.1\Rainfall.runtimeconfig.dev.json
+D:\Rainfall\bin\Debug\netcoreapp3.1\Rainfall.dll
+D:\Rainfall\bin\Debug\netcoreapp3.1\Rainfall.pdb
+D:\Rainfall\obj\Debug\netcoreapp3.1\Rainfall.csprojAssemblyReference.cache
+D:\Rainfall\obj\Debug\netcoreapp3.1\Rainfall.AssemblyInfoInputs.cache
+D:\Rainfall\obj\Debug\netcoreapp3.1\Rainfall.AssemblyInfo.cs
+D:\Rainfall\obj\Debug\netcoreapp3.1\Rainfall.dll
+D:\Rainfall\obj\Debug\netcoreapp3.1\Rainfall.pdb

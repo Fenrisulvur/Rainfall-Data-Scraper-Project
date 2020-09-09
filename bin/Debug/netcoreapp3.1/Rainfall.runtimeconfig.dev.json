@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fults\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fults\\.nuget\\packages"
+    ]
+  }
+}
